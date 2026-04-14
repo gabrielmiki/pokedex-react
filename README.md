@@ -12,9 +12,9 @@ A mobile Pokedex app built with React Native and Expo, powered by the [PokeAPI](
 
 ## Screenshots
 
-| Pokedex Grid | Pokemon Details |
-|---|---|
-| Home screen with search and pagination | Detail view with base stats |
+| Pokedex Grid | Type Search | Name Search | Pokemon Details |
+|---|---|---|---|
+| ![Home screen with search and pagination](images/home_screen.png) | ![Type Searching](images/type_search.png) | ![Name Searching](images/name_search.png) | ![Detail view with base stats](images/detail_screen.png) |
 
 ## Getting Started
 
